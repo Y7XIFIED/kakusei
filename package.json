@@ -1,0 +1,13 @@
+{
+  "name": "kakusei",
+  "version": "1.0.0",
+  "description": "Kakusei — An anime-inspired scroll reveal experience",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
