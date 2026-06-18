@@ -8,7 +8,7 @@ An anime-inspired scroll reveal experience built with GSAP, ScrollTrigger, and L
 
 | | |
 |---|---|
-| **Live Demo** | [kakusei-nu.vercel.app](https://kakusei-nu.vercel.app) |
+| **Live Demo** | [kakuseeii.vercel.app](https://kakuseeii.vercel.app) |
 | **GitHub** | [github.com/Y7XIFIED/kakusei](https://github.com/Y7XIFIED/kakusei) |
 
 ## 🚀 Local Development
